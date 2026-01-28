@@ -1,3 +1,4 @@
+<pre>
 plan for the web:
 customer
     index/landing
@@ -17,3 +18,4 @@ admin
         
         -
     transactions
+</pre>
