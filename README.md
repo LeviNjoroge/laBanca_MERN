@@ -16,6 +16,14 @@ sign up (views/signup.jsx)
                 -edit profile
                 -delete account
                 -log out of account
+            components (/components)
+                header (/header.jsx)
+                    -menu tab
+                    -name and profile picture
+                footer (/footer.jsx)
+                    -contact info
+                    -reviews section?
+                    -developed by, w/ copyright info
         admin (views/admin)
             landing (landing.jsx)
                 -view customers in dtb and their details
@@ -26,4 +34,13 @@ sign up (views/signup.jsx)
                 -view the customer transactions history in real time
             reviews (reviews.jsx)
                 -read customer reviews
+            components (/components)
+                header (/header.jsx)
+                    -name and profile (that will link to the profiles page)
+                    -menu tab
+                    -sign out button
+                footer (/footer.jsx)
+                    -developed by, w/ copyright info
+
+other components:
 </pre>
